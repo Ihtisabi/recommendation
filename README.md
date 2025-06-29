@@ -1,6 +1,8 @@
 # Rental Property Recommendation System 🏠
 ### Machine Learning Final Project - Suci Ihtisabi Hida Nursyifa
 
+You can read the full report in [Laporan Proyek](laporan.md), however, the full report is currently only available in Indonesian.
+
 ## 🏘️ Domain
 This project focuses on **real estate technology**, specifically addressing the challenges users face when searching for rental properties on digital platforms. With the increasing urbanization and reliance on online property platforms, there's a critical need for intelligent recommendation systems that can automatically suggest relevant properties without requiring extensive manual filtering.
 
